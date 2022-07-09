@@ -1,9 +1,7 @@
 # OSX
 #
 .DS_Store
-ios
 android
-__tests__
 # Xcode
 #
 build/
